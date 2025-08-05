@@ -1,8 +1,5 @@
-# Data Immersion: Salary Analysis in the Data Field
 
-# Data Immersion: Salary Analysis in the Data Field
-
-This repository contains the project developed during the Data Immersion program, focusing on the analysis of a dataset about salaries in the technology market. The goal was to perform a complete data analysis cycle, from importing and cleaning to creating visualizations and an interactive dashboard.
+# Python Data Immersion.
 
 ## 🚀 About the Project
 
